@@ -1,13 +1,18 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: QlikFront
+title: QlikFront | Qlik Sense web development tips and tricks 
+description: A blog for web developers / Qlik Sense Developers creating mashups, web apps and Qlik extensions. Made by
+  Thomas Pessato.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - qlik
+  - qliksense
+  - mashup
+  - extensions
+  - react
+  - angularjs
+  - angular
+  - javascript
+  - html
+  - css
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +23,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: thomas@clusterdesign.com
 disqus_username: disqus_username
